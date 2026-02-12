@@ -2,11 +2,11 @@
 # Introduction to HTML
 
 ### 🎯 **What I Learned Today**
-**What is HTML?**
-**HTML Document Structure**
-**Important HTML Tags : html,head,body,h1 – h6,p,a,img,div,span**
+###**What is HTML?**###
+###**HTML Document Structure**###
+###**Important HTML Tags : html,head,body,h1 – h6,p,a,img,div,span**###
 
-**Create a Simple Profile Page.**
+###**Create a Simple Profile Page.**###
 
 ---
 
@@ -24,8 +24,6 @@
 **Example:**
 
 <h1>Hello World</h1>
-<p>This is my first webpage.</p>
-
 --
 
 
@@ -71,17 +69,17 @@
 **3️⃣ <body>**
  -Contains all visible content.
 
-**4️⃣ Headings <h1>-<h6>**
- -Used for titles and subtitles.
+**4️⃣ <h1><h6>**
+ -Heading Tags Used for titles and subtitles.
 
-**5️⃣ Paragraph <p>**
+**5️⃣ <p>**
  -used to write paragraph text in a webpage.
 
-**6️⃣ Anchor Tag <a>**
- -Used to create links.
+**6️⃣ <a>**
+ -Anchor Tag Used to create links.
 
-**7️⃣ Image Tag <img>**
- -used to display images on a webpage.
+**7️⃣ <img>**
+ -Image Tag used to display images on a webpage.
 
 **8️⃣ <div>**
  -Block-level container for grouping elements.
