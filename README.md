@@ -28,7 +28,7 @@
 
 
 
-#### **2. HTML Document Structure.** ####
+### **2. HTML Document Structure.** ###
 
 -Every HTML page follows a basic structure:
 
@@ -58,7 +58,7 @@
 
 
 
-#### **3.🏷️ Important HTML Tags** ####
+### **3.🏷️ Important HTML Tags** ###
 
 **1️⃣ <html>**
  -Root element of the webpage.
