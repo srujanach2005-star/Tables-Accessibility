@@ -143,4 +143,5 @@ Connects label with input.
 
 # OUT PUT
 
-![Day-3](img/day-3-output.png)
+![Day-3 Output](img/day-2-output.png)
+
